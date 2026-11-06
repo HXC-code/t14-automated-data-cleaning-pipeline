@@ -1,0 +1,72 @@
+{
+  "pdf": "V3_3_J_FINAL\\figures\\下游F1独立验收图.pdf",
+  "auditable": true,
+  "verdict": "FIX BEFORE DELIVERY",
+  "page_count": 1,
+  "visible_text_box_count": 18,
+  "text_trace_count": 18,
+  "stroke_path_count": 54,
+  "filled_region_count": 40,
+  "image_region_count": 0,
+  "summary": {
+    "fail": 2,
+    "warn": 0,
+    "contained_fill_overlays": 0,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "FAIL",
+      "kind": "text-stroke",
+      "page": 1,
+      "message": "Text is crossed by 1 stroked path(s)",
+      "text": "2.8820 pp",
+      "text_bbox": [
+        259.9360046386719,
+        108.10675048828125,
+        299.9361877441406,
+        117.10675048828125
+      ],
+      "other_text": null,
+      "other_bbox": [
+        62.20800018310547,
+        116.02285766601562,
+        497.66400146484375,
+        116.02285766601562
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        15
+      ]
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-stroke",
+      "page": 1,
+      "message": "Text is crossed by 1 stroked path(s)",
+      "text": "3.3447 pp",
+      "text_bbox": [
+        400.4056701660156,
+        110.21884155273438,
+        440.4058532714844,
+        119.21884155273438
+      ],
+      "other_text": null,
+      "other_bbox": [
+        62.20800018310547,
+        116.02285766601562,
+        497.66400146484375,
+        116.02285766601562
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        15
+      ]
+    }
+  ]
+}

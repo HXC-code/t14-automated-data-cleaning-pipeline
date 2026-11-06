@@ -1,0 +1,16 @@
+{
+  "time_utc": "2026-11-03T16:30:20.097822+00:00",
+  "isolated_venv": true,
+  "original_project_directories_absent_at_relocated_parent": true,
+  "original_tests": 155,
+  "phase3_tests": 29,
+  "new_tests": 22,
+  "total": 206,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "standalone_one_command_pass": true,
+  "cleaned_sha256": "310b283e452c5612b9f71237ab4f3e307f7f086736455ced1e3a435713d7a5ab",
+  "matches_original_pipeline": true,
+  "real_labels_needed": false
+}

@@ -1,0 +1,16 @@
+{
+  "time_utc": "2026-11-03T15:59:07.771725+00:00",
+  "independent_feature_cases": 15,
+  "rows_per_case": 1600,
+  "all_frozen_J_views_equal": true,
+  "rollback_cases": 17,
+  "all_rollback_pass": true,
+  "real_delete_restore_pass": true,
+  "deletion_fixture_rows": 4,
+  "deleted_restored_rows": 2,
+  "human_review_interface_pass": true,
+  "review_fixture_not_real_human_validation": true,
+  "clean_environment_pipeline_match": true,
+  "clean_environment_cleaned_sha256": "310b283e452c5612b9f71237ab4f3e307f7f086736455ced1e3a435713d7a5ab",
+  "real_test_labels_used_in_pipeline": false
+}

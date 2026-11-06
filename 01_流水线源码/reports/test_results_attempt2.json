@@ -1,0 +1,12 @@
+{
+  "time_utc": "2026-11-03T15:36:09.168690+00:00",
+  "original_tests": 155,
+  "phase3_tests": 29,
+  "final_tests": 20,
+  "total": 204,
+  "failures": 0,
+  "errors": 0,
+  "success": true,
+  "fixture": "Original training features with deterministic synthetic income for unit fixtures only; no real test labels shipped or read",
+  "original_test_bodies_edited": false
+}

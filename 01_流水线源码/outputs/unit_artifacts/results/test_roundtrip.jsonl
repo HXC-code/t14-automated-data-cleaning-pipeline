@@ -1,0 +1,1 @@
+{"seq": 1, "op": "cell_fix", "row": 0, "col": "capital_loss", "before": 3000.1, "after": 0.0, "action": "outlier_global", "confidence": 1.0, "candidate_evidence": {"value": 0.0, "lower_bound": 0.9371354208099459, "support": 3214, "n": 3400, "source": "global"}}

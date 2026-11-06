@@ -1,0 +1,152 @@
+{
+  "missing_methods": {
+    "20260601": {
+      "age": "D",
+      "workclass": "D",
+      "fnlwgt": "A",
+      "education": "D",
+      "education_num": "A",
+      "marital_status": "D",
+      "occupation": "D",
+      "relationship": "D",
+      "race": "D",
+      "sex": "D",
+      "capital_gain": "A",
+      "capital_loss": "A",
+      "hours_per_week": "A",
+      "native_country": "B"
+    },
+    "20260602": {
+      "age": "A",
+      "workclass": "B",
+      "fnlwgt": "A",
+      "education": "D",
+      "education_num": "A",
+      "marital_status": "D",
+      "occupation": "D",
+      "relationship": "D",
+      "race": "D",
+      "sex": "D",
+      "capital_gain": "A",
+      "capital_loss": "A",
+      "hours_per_week": "A",
+      "native_country": "D"
+    },
+    "20260603": {
+      "age": "K5",
+      "workclass": "D",
+      "fnlwgt": "A",
+      "education": "D",
+      "education_num": "A",
+      "marital_status": "D",
+      "occupation": "D",
+      "relationship": "D",
+      "race": "D",
+      "sex": "D",
+      "capital_gain": "A",
+      "capital_loss": "A",
+      "hours_per_week": "A",
+      "native_country": "B"
+    },
+    "20260604": {
+      "age": "D",
+      "workclass": "A",
+      "fnlwgt": "A",
+      "education": "D",
+      "education_num": "A",
+      "marital_status": "D",
+      "occupation": "D",
+      "relationship": "D",
+      "race": "D",
+      "sex": "D",
+      "capital_gain": "A",
+      "capital_loss": "A",
+      "hours_per_week": "A",
+      "native_country": "B"
+    },
+    "20260605": {
+      "age": "D",
+      "workclass": "A",
+      "fnlwgt": "A",
+      "education": "D",
+      "education_num": "A",
+      "marital_status": "D",
+      "occupation": "D",
+      "relationship": "D",
+      "race": "B",
+      "sex": "D",
+      "capital_gain": "A",
+      "capital_loss": "A",
+      "hours_per_week": "A",
+      "native_country": "D"
+    }
+  },
+  "overwrite_policy": "B",
+  "validation_feasible": true,
+  "validation_policy_results": [
+    {
+      "policy": "A",
+      "precision": 0.8838436436853433,
+      "feasible": true,
+      "gains": {
+        "0.03": 5.432363326759712,
+        "0.1": 4.453294775708909,
+        "0.2": 3.6114427534937987
+      },
+      "strict": 12730,
+      "overwrite_restored": 147
+    },
+    {
+      "policy": "B",
+      "precision": 0.8841213636048045,
+      "feasible": true,
+      "gains": {
+        "0.03": 5.432363326759712,
+        "0.1": 4.43400204718952,
+        "0.2": 3.511067342130134
+      },
+      "strict": 12734,
+      "overwrite_restored": 151
+    },
+    {
+      "policy": "C",
+      "precision": 0.883774213705478,
+      "feasible": true,
+      "gains": {
+        "0.03": 5.432363326759712,
+        "0.1": 4.453294775708909,
+        "0.2": 3.6114427534937987
+      },
+      "strict": 12729,
+      "overwrite_restored": 146
+    },
+    {
+      "policy": "D",
+      "precision": 0.8755814760813719,
+      "feasible": true,
+      "gains": {
+        "0.03": 5.46052342797835,
+        "0.1": 4.376522255736981,
+        "0.2": 3.6835383335275806
+      },
+      "strict": 12611,
+      "overwrite_restored": 28
+    },
+    {
+      "policy": "E",
+      "precision": 0.9335262259811559,
+      "feasible": false,
+      "gains": {
+        "0.03": 2.5533398830433107,
+        "0.1": 2.590102822159459,
+        "0.2": 1.9137941329665775
+      },
+      "strict": 12583,
+      "overwrite_restored": 0
+    }
+  ],
+  "primary_indicators": "original_6_numeric",
+  "secondary_indicators": "all_14_features",
+  "target_3pp_not_guaranteed": true,
+  "test_labels_read": false
+}

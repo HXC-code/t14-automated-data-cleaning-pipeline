@@ -1,0 +1,36 @@
+# Local environments and caches
+.venv/
+复现运行环境/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Private raw data and generated runs
+05_原始数据（含标签，请勿公开）/
+复现运行输出（含私有数据，请勿公开）/
+
+# Authored report containing personal details
+07_研究生实训报告_V3.3-J修订/
+
+# Local offline dependencies
+06_复现准备与运行说明/离线依赖包/
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.jks
+*.keystore
+credentials*
+secret*
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

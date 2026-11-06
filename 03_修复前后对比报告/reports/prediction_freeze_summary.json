@@ -1,0 +1,8 @@
+{
+  "time_utc": "2026-11-03T15:41:24.858724+00:00",
+  "prediction_files": 105,
+  "rows_per_file": 1600,
+  "unique_test_rows": 8000,
+  "private_prediction_manifest_sha256": "d8378437c248405cc196606f60e6be6b8d445670c4afc894ec5b2d5174882dc9",
+  "external_labels_opened": false
+}

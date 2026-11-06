@@ -1,0 +1,8 @@
+﻿component,change,evidence
+Frozen J/units/outliers/FD,byte-identical copy; no post-test change,config/candidate_freeze.json; config/execution_freeze.json
+Runtime CLI and audit adapter,CSV/schema/profile/queue/timestamp/optional explicit review and final deduplication; defaults preserve J exactly,run_pipeline.py; reports/engineering_acceptance.json
+Test launcher,Resolved legacy/new tests namespace collision; all original test bodies preserved,logs/full_unit_tests_attempt1.log; logs/full_unit_tests_final.log
+Parser fixture availability,Added target-masked Mushroom structure fixture to eliminate two skipped original tests,config/unit_fixture_provenance.json; logs/full_unit_tests_attempt2.log
+UTF8 input metadata,Explicit UTF8 loader fixed Windows locale error before any external label read,logs/independent_predictions.log; logs/independent_predictions_attempt2.log
+Independent prediction and scoring,All probabilities fixed before one label-reading session; medium-noise failure retained,reports/F1_acceptance_decision.json; logs/independent_score_once.log
+Post-score reports/figures/portable reproduction helper,Evidence/export only; no classifier re-fitting or re-scoring after acceptance,tools/build_reports.py; tools/plot_reports.py; tools/reproduce_f1.py

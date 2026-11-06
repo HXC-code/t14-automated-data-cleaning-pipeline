@@ -1,0 +1,9 @@
+{
+  "time_utc": "2026-11-03T16:30:22.498199+00:00",
+  "python": "3.14.6",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "thread_limit": 1,
+  "dependency_lock": "requirements-lock.txt",
+  "clean_environment_install_log": "logs/clean_environment_install.log",
+  "clean_environment_test_log": "logs/clean_environment_tests.log"
+}

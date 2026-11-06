@@ -1,0 +1,7 @@
+﻿stage,source,feature_universe_excluded,split_metadata_files,fresh_test_overlap,note
+V2,adult.data original training corpus,32561,0,0,"All original training identities excluded, including profiles, historical tests, unit fixtures, tuning and later repeated development"
+V3,adult.data original training corpus,32561,5,0,"All original training identities excluded, including profiles, historical tests, unit fixtures, tuning and later repeated development"
+V3.1,adult.data original training corpus,32561,5,0,"All original training identities excluded, including profiles, historical tests, unit fixtures, tuning and later repeated development"
+V3.2,adult.data original training corpus,32561,5,0,"All original training identities excluded, including profiles, historical tests, unit fixtures, tuning and later repeated development"
+V3.3,adult.data original training corpus,32561,10,0,"All original training identities excluded, including profiles, historical tests, unit fixtures, tuning and later repeated development"
+V3.2 external,previously scored sealed feature groups,8000,5,0,Old external rows excluded by source ID and all 14 feature identity

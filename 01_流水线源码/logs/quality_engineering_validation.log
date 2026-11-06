@@ -1,0 +1,16 @@
+{"seed": 20260601, "rate": 0.03, "engineering_and_quality_verified": true}
+{"seed": 20260601, "rate": 0.1, "engineering_and_quality_verified": true}
+{"seed": 20260601, "rate": 0.2, "engineering_and_quality_verified": true}
+{"seed": 20260602, "rate": 0.03, "engineering_and_quality_verified": true}
+{"seed": 20260602, "rate": 0.1, "engineering_and_quality_verified": true}
+{"seed": 20260602, "rate": 0.2, "engineering_and_quality_verified": true}
+{"seed": 20260603, "rate": 0.03, "engineering_and_quality_verified": true}
+{"seed": 20260603, "rate": 0.1, "engineering_and_quality_verified": true}
+{"seed": 20260603, "rate": 0.2, "engineering_and_quality_verified": true}
+{"seed": 20260604, "rate": 0.03, "engineering_and_quality_verified": true}
+{"seed": 20260604, "rate": 0.1, "engineering_and_quality_verified": true}
+{"seed": 20260604, "rate": 0.2, "engineering_and_quality_verified": true}
+{"seed": 20260605, "rate": 0.03, "engineering_and_quality_verified": true}
+{"seed": 20260605, "rate": 0.1, "engineering_and_quality_verified": true}
+{"seed": 20260605, "rate": 0.2, "engineering_and_quality_verified": true}
+Quality and all 17 actual persisted rollback cases completed; no classifier re-scored

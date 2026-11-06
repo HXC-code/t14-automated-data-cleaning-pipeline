@@ -1,0 +1,10 @@
+﻿rate,state,n,missing_cells,detected_alert_cells,numeric_type_range_alerts,spelling_alerts,format_alerts,unknown_category_alerts,unit_conversion_proposals,cross_field_alert_cells,auto_modified,manual_review,clean_misrepair,strict_restored,reasonable_only
+0.03,J,8000,2379,4853,187,0,0,22,0,941,1683,4846,0,1605,78
+0.03,dirty,8000,2379,6529,737,570,563,22,363,934,0,0,0,0,0
+0.03,original,8000,2139,3417,0,0,0,15,0,4,0,0,0,0,0
+0.1,J,8000,2933,7993,590,0,0,49,0,2938,5436,7938,0,5180,256
+0.1,dirty,8000,2933,13374,2316,1861,1849,49,1137,2844,0,0,0,0,0
+0.1,original,8000,2139,3417,0,0,0,15,0,4,0,0,0,0,0
+0.2,J,8000,3712,11461,1067,0,0,95,0,4945,10511,11341,0,9981,530
+0.2,dirty,8000,3712,21851,4403,3674,3501,95,2153,4566,0,0,0,0,0
+0.2,original,8000,2139,3417,0,0,0,15,0,4,0,0,0,0,0

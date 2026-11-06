@@ -1,0 +1,16 @@
+{
+  "time_utc": "2026-11-03T16:30:18.424803+00:00",
+  "overall_pass": false,
+  "classification_pass": false,
+  "failed_requirements": [
+    "下游F1中噪声"
+  ],
+  "exact_medium_mean_pp": 2.8820421159908305,
+  "official_requirements_only": true,
+  "additional_CI_gate": false,
+  "engineering_pass": true,
+  "single_independent_scoring": true,
+  "external_test_records": 8000,
+  "public_test_labels": false,
+  "truth_exported": false
+}

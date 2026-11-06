@@ -1,0 +1,21 @@
+{
+  "seeds": [20260601, 20260602, 20260603, 20260604, 20260605],
+  "noise_rates": [0.03, 0.10, 0.20],
+  "primary_policies": ["A", "B", "C", "D", "E", "F", "G"],
+  "primary_classifier": "unchanged V3.2 StandardScaler, implicit plus 6 original numeric missing indicators, threshold 0.5",
+  "C_grid": [0.1, 1.0, 10.0],
+  "class_weight_grid": [null, "balanced"],
+  "max_iter": 1000,
+  "high_confidence_wilson_lower": 0.90,
+  "narrow_gate_wilson_lower": 0.50,
+  "narrow_gate_requires_global_conditional_agreement": true,
+  "G_changes_estimates": false,
+  "fnlwgt_technical_policies": ["fnl_original", "fnl_integer", "fnl_gate", "fnl_review"],
+  "integer_projection": "nearest even; estimate only, never claim ground-truth restoration",
+  "scaler_technical_policies": ["standard_explicit6", "robust_explicit6"],
+  "indicator_technical_policies": ["original6_with_implicit", "explicit6", "explicit14"],
+  "quality_partitions": ["fit", "validation"],
+  "external_test_access": false,
+  "formal_core_changes": false,
+  "note": "This stage is development ablation only. G here is a strict replay gate, not the earlier unpromoted G_cond prototype."
+}

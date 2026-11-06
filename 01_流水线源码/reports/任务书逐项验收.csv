@@ -1,0 +1,10 @@
+﻿requirement,actual,passed,evidence
+一键运行,1600行接入→画像/检测/定位→J修复→复核清单→输出；自动1077、待复核1420,True,run_pipeline.py; logs/one_click.log; outputs/demo/repair_report.json
+修复报告,本次实际规模、缺失、告警、修改、复核、前后对比、耗时及输出路径均自动生成,True,outputs/demo/repair_report.md; outputs/clean_environment_run/repair_report.json
+下游F1低噪声,4.0247608613 pp；样本SD 1.7141644821,True,reports/下游F1验收对比表.csv; reports/五次独立实验结果.csv
+下游F1中噪声,2.8820421160 pp；样本SD 1.7245325510,False,reports/下游F1验收对比表.csv; reports/五次独立实验结果.csv
+下游F1高噪声,3.3446632655 pp；样本SD 1.2321530278,True,reports/下游F1验收对比表.csv; reports/五次独立实验结果.csv
+流水线源码,冻结J及完整依赖、入口、训练/一次评分/复现脚本、requirements和SHA清单,True,src/; frozen/; tools/; config/; README.md; SHA256SUMS.csv
+单元测试,155+29+22=206；0失败、0错误、0跳过；独立环境及迁移目录重跑,True,reports/test_results.json; logs/clean_environment_tests.log; logs/relocated_environment_tests.log
+修复前后对比,本次独立数据三状态、三档及八种注入类型；原值恢复与合理近似分列,True,reports/修复前后对比报告.md; reports/修复前后质量统计.csv; figures/
+audit log样例,真实运行的时间戳、记录/字段、前后值、原因、规则、结果；17条持久化链回滚通过,True,reports/audit_log_sample.jsonl; reports/回滚验证报告.md; outputs/*/audit.jsonl

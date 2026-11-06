@@ -1,0 +1,9 @@
+{
+  "time_utc": "2026-11-03T16:23:25.556483+00:00",
+  "restored_rows": 4,
+  "restored_sha256": "1e961ac0691a0977cf3166e9be62f489f69f2c3da2a18f23487c7e8018a49d60",
+  "original_input_read": false,
+  "used_cleaned_and_audit_only": true,
+  "expected_hash_match": true,
+  "identifiers_restored_from_audit": true
+}

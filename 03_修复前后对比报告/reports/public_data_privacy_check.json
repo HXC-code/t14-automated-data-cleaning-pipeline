@@ -1,0 +1,36 @@
+{
+  "time_utc": "2026-11-03T16:30:22.497425+00:00",
+  "forbidden_files": [],
+  "forbidden_true_target_columns": [],
+  "real_income_values_in_public_CSV": false,
+  "test_probability_vectors_public": false,
+  "injected_truth_files_public": false,
+  "reference_banks": [
+    {
+      "seed": 20260601,
+      "reference_rows": 3400,
+      "contains_income": false
+    },
+    {
+      "seed": 20260602,
+      "reference_rows": 3400,
+      "contains_income": false
+    },
+    {
+      "seed": 20260603,
+      "reference_rows": 3400,
+      "contains_income": false
+    },
+    {
+      "seed": 20260604,
+      "reference_rows": 3400,
+      "contains_income": false
+    },
+    {
+      "seed": 20260605,
+      "reference_rows": 3400,
+      "contains_income": false
+    }
+  ],
+  "note": "Source code contains target-token literals and generators for synthetic unit fixtures; no real held-out target vector is distributed"
+}

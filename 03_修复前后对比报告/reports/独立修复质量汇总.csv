@@ -1,0 +1,4 @@
+﻿rate,n,injected,detected,automatic_modified,strict_modified,strict_restored,reasonable_only,wrong_modified,clean_misrepair,clean_cells,manual_review,semantic_cases,automatic_precision,strict_restoration_rate,clean_misrepair_rate
+0.03,8000,2975,2965,1683,1605,1605,78,78,0,109025,4846,186,0.9536541889483066,0.5394957983193277,0.0
+0.1,8000,9558,9523,5436,5180,5180,256,256,0,102442,7938,589,0.9529065489330389,0.5419543837622933,0.0
+0.2,8000,17894,17829,10511,9981,9981,530,530,0,94106,11341,939,0.9495766340024736,0.557784732312507,0.0

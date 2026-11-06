@@ -1,0 +1,16 @@
+﻿seed,rate,reference_only,unit_outlier_FD_canonical_preserved,test_rows,labels_opened
+20260601,0.03,True,True,1600,False
+20260601,0.1,True,True,1600,False
+20260601,0.2,True,True,1600,False
+20260602,0.03,True,True,1600,False
+20260602,0.1,True,True,1600,False
+20260602,0.2,True,True,1600,False
+20260603,0.03,True,True,1600,False
+20260603,0.1,True,True,1600,False
+20260603,0.2,True,True,1600,False
+20260604,0.03,True,True,1600,False
+20260604,0.1,True,True,1600,False
+20260604,0.2,True,True,1600,False
+20260605,0.03,True,True,1600,False
+20260605,0.1,True,True,1600,False
+20260605,0.2,True,True,1600,False

@@ -1,0 +1,10 @@
+{
+  "adult_train_sha256": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d",
+  "adult_test_sha256": "a2a9044bc167a35b2361efbabec64e89d69ce82d9790d2980119aac5fd7e9c05",
+  "source_url": "https://archive.ics.uci.edu/static/public/2/adult.zip",
+  "source_doi": "10.24432/C5XW20",
+  "train_rows": 32561,
+  "test_rows": 16281,
+  "labels_in_public_package": false,
+  "recipe": "Obtain original Adult files outside public delivery; use fixed assignment CSV and frozen protocol. Reproduction after scoring is never new independent acceptance."
+}

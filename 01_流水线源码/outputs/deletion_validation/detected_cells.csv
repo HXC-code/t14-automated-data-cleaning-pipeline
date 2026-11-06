@@ -1,0 +1,4 @@
+﻿record_id,field,observed_value,reason,result
+fixture-a,age,32000.0,unit_inverse,modified
+fixture-b,age,32000.0,unit_inverse,modified
+fixture-c,age,32000.0,unit_inverse,modified

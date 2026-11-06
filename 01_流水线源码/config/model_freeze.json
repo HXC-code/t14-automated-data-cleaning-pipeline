@@ -1,0 +1,783 @@
+{
+  "time_utc": "2026-11-03T15:33:40.605646+00:00",
+  "models": [
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "original",
+      "file": "models\\20260601_3_original.joblib",
+      "sha256": "eed663b8cd6d227fc590a8227596e9753ae0dcff0b62359b1796250f1e5982c1"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "raw",
+      "file": "models\\20260601_3_raw.joblib",
+      "sha256": "62f169812696d846e0bdcd30aaaec4345d21b1d6649759c98664498e49d05213"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "V2",
+      "file": "models\\20260601_3_V2.joblib",
+      "sha256": "1ea731786086defb39c4c8f2ad59d99a5f76ddc4676aff5ce66860c418e821ee"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "V3",
+      "file": "models\\20260601_3_V3.joblib",
+      "sha256": "dae22bfe828e53586f25433d1a3382ecc0887dbc6c11328ea2c1f5b004339e86"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "V3.1",
+      "file": "models\\20260601_3_V3.1.joblib",
+      "sha256": "cfe7e42a8304a6e6e14c8c0865c3314ebd06f04cff187a3adec98a67d0c2f606"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "A_V3.2",
+      "file": "models\\20260601_3_A_V3.2.joblib",
+      "sha256": "c9f4e95a7296c3180fdc6ae9459e4c6f15915b8cd946bed06fc2a59b515d055d"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.03,
+      "version": "J",
+      "file": "models\\20260601_3_J.joblib",
+      "sha256": "bfae63b6afee4d70f79be3280ab9449cfb4dc0ab6781b90fd7818f6dab5d54b5"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "original",
+      "file": "models\\20260601_10_original.joblib",
+      "sha256": "eed663b8cd6d227fc590a8227596e9753ae0dcff0b62359b1796250f1e5982c1"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "raw",
+      "file": "models\\20260601_10_raw.joblib",
+      "sha256": "c884ca49ae03a63cb2ef8c047be82277d250fd856a7b75a05c832245184ff90a"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "V2",
+      "file": "models\\20260601_10_V2.joblib",
+      "sha256": "203256ab597f0b28c01b7627cc60745a1813b82c6e5e33ad112759feded6e5db"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "V3",
+      "file": "models\\20260601_10_V3.joblib",
+      "sha256": "67974e0ff44ddf4cedb256db8f220279a64e8675525f3b660bfcf01b20a83c13"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "V3.1",
+      "file": "models\\20260601_10_V3.1.joblib",
+      "sha256": "695da676e3447e85f8cd83a1b4bbc6b9f4d136412b3abdc17f610f42dee9c56e"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "A_V3.2",
+      "file": "models\\20260601_10_A_V3.2.joblib",
+      "sha256": "d890a3d90c12add90fd486e66f8c0d21bcc9d778c162a823f105e4fc6349a7bd"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.1,
+      "version": "J",
+      "file": "models\\20260601_10_J.joblib",
+      "sha256": "453e985c7f7017f7db4616ad632bd54ee76676f02be16187c9a1eefa1c5d3227"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "original",
+      "file": "models\\20260601_20_original.joblib",
+      "sha256": "eed663b8cd6d227fc590a8227596e9753ae0dcff0b62359b1796250f1e5982c1"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "raw",
+      "file": "models\\20260601_20_raw.joblib",
+      "sha256": "44ba1fe42b76634eff4daf322aec07b95dcb475ade75310324c9efea0a24743e"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "V2",
+      "file": "models\\20260601_20_V2.joblib",
+      "sha256": "73c4cedb745feb28d1f15735b8af704d95e72b6542fe5bf75a9dd2b33b704613"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "V3",
+      "file": "models\\20260601_20_V3.joblib",
+      "sha256": "6c44b69851885838455fcec69e2f6d577c044f7b6d02dcad92882e3d219ea79c"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "V3.1",
+      "file": "models\\20260601_20_V3.1.joblib",
+      "sha256": "2cae7f2f0ed73e45ee869b04cba012c38eea9d207c5082259c095514489cfe4d"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "A_V3.2",
+      "file": "models\\20260601_20_A_V3.2.joblib",
+      "sha256": "786a30f6cda69882a47eba68d14bfdc78e83311960110226763a71be362d1714"
+    },
+    {
+      "seed": 20260601,
+      "rate": 0.2,
+      "version": "J",
+      "file": "models\\20260601_20_J.joblib",
+      "sha256": "2b6030c0707ad63817a1d27c314ae61f649ec770eee4eab12e3e5a9328560e0f"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "original",
+      "file": "models\\20260602_3_original.joblib",
+      "sha256": "12502f40115bc8e3bcfdf4d4b8d491195507017cd583034cb559f0e5d1ab9d95"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "raw",
+      "file": "models\\20260602_3_raw.joblib",
+      "sha256": "2068cb58380212f04aaf7523b8c84466fb8e490bc52961c9d8abe6ba692e3e92"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "V2",
+      "file": "models\\20260602_3_V2.joblib",
+      "sha256": "ccf324447ccbbe06f889c4f6bfb7c199ef08191b7dfd6114a7d8f1113abed224"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "V3",
+      "file": "models\\20260602_3_V3.joblib",
+      "sha256": "490a6b939beb713d73daf3f7a36319c8f132395735584a705b001bac48211a2e"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "V3.1",
+      "file": "models\\20260602_3_V3.1.joblib",
+      "sha256": "599fab51f4cee121c8c28780db45c910b03d0a24dd874d18b15966103ef3ff02"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "A_V3.2",
+      "file": "models\\20260602_3_A_V3.2.joblib",
+      "sha256": "faca96f1b0e67988e5a5582beb48b01ca93b723d056f05d13f0362e6a887c624"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.03,
+      "version": "J",
+      "file": "models\\20260602_3_J.joblib",
+      "sha256": "2bea7031eecb2c6eeca110ff85e1903053926b878ade4a8dae9596289d38b79a"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "original",
+      "file": "models\\20260602_10_original.joblib",
+      "sha256": "12502f40115bc8e3bcfdf4d4b8d491195507017cd583034cb559f0e5d1ab9d95"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "raw",
+      "file": "models\\20260602_10_raw.joblib",
+      "sha256": "3568f763498acc99008f4969f16242fde16450e60d0cfb065119e8c337857f6d"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "V2",
+      "file": "models\\20260602_10_V2.joblib",
+      "sha256": "a4cf02f5b4188708fa9afff0a64299ff71776c2a45488ffdd58ebe338d0cb197"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "V3",
+      "file": "models\\20260602_10_V3.joblib",
+      "sha256": "9c8eb0c24842cd8d909f4b5bb102b51ff00011af6854f2b9bcef6a32d579d7e9"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "V3.1",
+      "file": "models\\20260602_10_V3.1.joblib",
+      "sha256": "2790a9d4b51b2dce956680e1990ea1adfbb90afee05e1ed7c861712b0702f187"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "A_V3.2",
+      "file": "models\\20260602_10_A_V3.2.joblib",
+      "sha256": "3a05fb9989e597fe545f8fb21414df6d78c4be61c23fff6834357780ba9cc981"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.1,
+      "version": "J",
+      "file": "models\\20260602_10_J.joblib",
+      "sha256": "1807c52a1cf053f6680896cae9e099b2fea1931d46130016e66ed435164ae596"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "original",
+      "file": "models\\20260602_20_original.joblib",
+      "sha256": "12502f40115bc8e3bcfdf4d4b8d491195507017cd583034cb559f0e5d1ab9d95"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "raw",
+      "file": "models\\20260602_20_raw.joblib",
+      "sha256": "369c9bc7aecb40bcd110062ceb30092b482583dd53f8084d8acb8989c669b452"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "V2",
+      "file": "models\\20260602_20_V2.joblib",
+      "sha256": "c0fd831bc4ead231d80d2a46eae687ab61246ea1cb7a95fb20949b57daf2d00c"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "V3",
+      "file": "models\\20260602_20_V3.joblib",
+      "sha256": "8ea76118dd8bf4b128d02a0634c69032dfadfff004f0ebb54ebd613997f0fffa"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "V3.1",
+      "file": "models\\20260602_20_V3.1.joblib",
+      "sha256": "b6f8b126afe0f4410afe9affdba2d33defe04ed1d07c213be5c3620ccbc12eb1"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "A_V3.2",
+      "file": "models\\20260602_20_A_V3.2.joblib",
+      "sha256": "5f55b53d5843b952590c3cb98d662875b9b3be83c1f704d4075fb81f6023d318"
+    },
+    {
+      "seed": 20260602,
+      "rate": 0.2,
+      "version": "J",
+      "file": "models\\20260602_20_J.joblib",
+      "sha256": "11bbbd571dbcf6f64168d4b71603792363ab31783adf975ca0141998cacaa038"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "original",
+      "file": "models\\20260603_3_original.joblib",
+      "sha256": "26fea2f69f9559c902554a3bd34b6c0bdc867939d59920a75e2ce802f7c9f068"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "raw",
+      "file": "models\\20260603_3_raw.joblib",
+      "sha256": "6741d935464c9e1fb747e65cb80f5ce38cd0226e1a4e58e6a08c5c233b0a70a9"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "V2",
+      "file": "models\\20260603_3_V2.joblib",
+      "sha256": "5e96b0b28073eaffe2c7afa33780123a3cd6ee5c2b6e42c6c82556cb2e984359"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "V3",
+      "file": "models\\20260603_3_V3.joblib",
+      "sha256": "7e303a46dce6b3fbda957ede81af5ab82a0179915e5bc8a3b438f7afacc30766"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "V3.1",
+      "file": "models\\20260603_3_V3.1.joblib",
+      "sha256": "26616a3089c53ca84d0209314b392a776da71517660c32df41258627d143a7f9"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "A_V3.2",
+      "file": "models\\20260603_3_A_V3.2.joblib",
+      "sha256": "a5c7efdb601d435ad670803dac6cbf21e191ea14c51799cde0ab01608d983382"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.03,
+      "version": "J",
+      "file": "models\\20260603_3_J.joblib",
+      "sha256": "5f525e3e3d15ec5800542b2b9e7bb05d78c40936d78949dc1492bae4d51197d6"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "original",
+      "file": "models\\20260603_10_original.joblib",
+      "sha256": "26fea2f69f9559c902554a3bd34b6c0bdc867939d59920a75e2ce802f7c9f068"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "raw",
+      "file": "models\\20260603_10_raw.joblib",
+      "sha256": "618b5042fc318646bb395b60f355eec215994c681fc461295153a591eda6258f"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "V2",
+      "file": "models\\20260603_10_V2.joblib",
+      "sha256": "23971bccf0da86d826ff8458bfa5db732874419e8a21f6cb010674b9fe79a10f"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "V3",
+      "file": "models\\20260603_10_V3.joblib",
+      "sha256": "154c93740d37ce646c6ed0ded6122bafb725954fde156e98836059a350ccbf2a"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "V3.1",
+      "file": "models\\20260603_10_V3.1.joblib",
+      "sha256": "ff76adf338177b4c69eda4296afaa88962aa455ad5830440d2c71bf73a35e5b5"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "A_V3.2",
+      "file": "models\\20260603_10_A_V3.2.joblib",
+      "sha256": "8ba8ca35f8ff5c7b1d14be1b52a8e56110804c69878a5997704650375e2d48bc"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.1,
+      "version": "J",
+      "file": "models\\20260603_10_J.joblib",
+      "sha256": "76eb25628f68ff79e3ae324a2c1e6404d61c9ea27c7840bdc620f4599e771cf1"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "original",
+      "file": "models\\20260603_20_original.joblib",
+      "sha256": "26fea2f69f9559c902554a3bd34b6c0bdc867939d59920a75e2ce802f7c9f068"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "raw",
+      "file": "models\\20260603_20_raw.joblib",
+      "sha256": "0dc3f0b9f9649e1b9f128a34f6a45d04b11f01fa7213c4e30ec5cef9300bdb6d"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "V2",
+      "file": "models\\20260603_20_V2.joblib",
+      "sha256": "f6c838bbf5886ce1bf47d0310686907952e3cfd37ec79f65152d472058a054ce"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "V3",
+      "file": "models\\20260603_20_V3.joblib",
+      "sha256": "eb1031a17af252604f6db37ffb09c258aef5e1778f796f72b0fb0aa3c4594515"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "V3.1",
+      "file": "models\\20260603_20_V3.1.joblib",
+      "sha256": "930b69ab0140f867d4cddbf46b8fa0633591e19f9efb39af59cd520e2d2250c0"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "A_V3.2",
+      "file": "models\\20260603_20_A_V3.2.joblib",
+      "sha256": "1727d89255375cd82a2890532b1e7abe3301a5b432b80bf0ac6277b30d8e7b38"
+    },
+    {
+      "seed": 20260603,
+      "rate": 0.2,
+      "version": "J",
+      "file": "models\\20260603_20_J.joblib",
+      "sha256": "f1853f1e3b74f0d18415997bf66e5a55173342f54206750c6069d1b7eefc4345"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "original",
+      "file": "models\\20260604_3_original.joblib",
+      "sha256": "db7f761b0613280c0f551060001a06712f86e98cfee572fb727499c297aa84b1"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "raw",
+      "file": "models\\20260604_3_raw.joblib",
+      "sha256": "6ba2fb13c52d6af3c5ea704b33126945e0eb6891b2c71b5203fdce50e17131e0"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "V2",
+      "file": "models\\20260604_3_V2.joblib",
+      "sha256": "7dbd074022835e709a02e0d0e450644ff115e6320b0d8df6e0d543dbc28482b8"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "V3",
+      "file": "models\\20260604_3_V3.joblib",
+      "sha256": "a687c64a2416b0ebe56525c2c7a00760c6f4cfec4e79d3df6cc53eb65145b3c9"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "V3.1",
+      "file": "models\\20260604_3_V3.1.joblib",
+      "sha256": "ead73ca3cd0a9b38fedf745dc59d541413bbc252dafb7d8f5793d3a8f5c0b300"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "A_V3.2",
+      "file": "models\\20260604_3_A_V3.2.joblib",
+      "sha256": "cc12ded1b66ef21855a04d356ac66c435dcf9535c977fce61f6e768927bd124d"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.03,
+      "version": "J",
+      "file": "models\\20260604_3_J.joblib",
+      "sha256": "a704027a51a767ace8a22fb4d9e781556ae8b9965ec1e80baf8b01c3474c7b7d"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "original",
+      "file": "models\\20260604_10_original.joblib",
+      "sha256": "db7f761b0613280c0f551060001a06712f86e98cfee572fb727499c297aa84b1"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "raw",
+      "file": "models\\20260604_10_raw.joblib",
+      "sha256": "89dc069df4dc0cfd51a1fc79844eb0f25fb78ed68190c95d62308a9bfc875870"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "V2",
+      "file": "models\\20260604_10_V2.joblib",
+      "sha256": "43a38213ef1472d4a63d86daa4f56fba07cf2a761f9e0974d50576e9b7735ab2"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "V3",
+      "file": "models\\20260604_10_V3.joblib",
+      "sha256": "26c81b6855f40944d929da09930e1e87d93056f1404e292af4f63e745080760d"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "V3.1",
+      "file": "models\\20260604_10_V3.1.joblib",
+      "sha256": "33f105ff58d6c3078621b7fc83d81e0b78c1411ebea0fc2be4945ff95827a5c4"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "A_V3.2",
+      "file": "models\\20260604_10_A_V3.2.joblib",
+      "sha256": "4b2ba82f8903ae6533c6bc2a5871bfa5fbd9a00318976b45dabf366db24fdfae"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.1,
+      "version": "J",
+      "file": "models\\20260604_10_J.joblib",
+      "sha256": "5a258a2f1816e97f8b0adc24b9f39e95c42693d65ef906a07e77f4e5a6a8ddc9"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "original",
+      "file": "models\\20260604_20_original.joblib",
+      "sha256": "db7f761b0613280c0f551060001a06712f86e98cfee572fb727499c297aa84b1"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "raw",
+      "file": "models\\20260604_20_raw.joblib",
+      "sha256": "150e66e4c0d93bdca3bf278925a7431fdcd4cc0682056db6731a69a8c946ffd6"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "V2",
+      "file": "models\\20260604_20_V2.joblib",
+      "sha256": "6c35d3c06c90b17fb1410321faf0f878867c4ff6eddc92ea4536eef52efc2e8e"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "V3",
+      "file": "models\\20260604_20_V3.joblib",
+      "sha256": "baf55a67afa54f636692ac2a09f9b29026f678f9da888bfe391618280a83236e"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "V3.1",
+      "file": "models\\20260604_20_V3.1.joblib",
+      "sha256": "9282c801599349634473c8d7f7188f7704fbc3cb2dbb1974b2d52d1c399b184a"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "A_V3.2",
+      "file": "models\\20260604_20_A_V3.2.joblib",
+      "sha256": "756a54e623dd86bb722dc566eb892178a74f92707630326d68103add6a8a68eb"
+    },
+    {
+      "seed": 20260604,
+      "rate": 0.2,
+      "version": "J",
+      "file": "models\\20260604_20_J.joblib",
+      "sha256": "e28e434866748cee8d4659274e939b28b186d185945628021f0c25488a3aab0a"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "original",
+      "file": "models\\20260605_3_original.joblib",
+      "sha256": "78043bc3f5c44e9c69f6a9d2a3645d84c3b41d3b7ef3cb616c93a5b8a071396f"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "raw",
+      "file": "models\\20260605_3_raw.joblib",
+      "sha256": "21d035f9a2216a0575d8842f1a636ee195e6aad10d10402d91c4f6dafd88bf12"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "V2",
+      "file": "models\\20260605_3_V2.joblib",
+      "sha256": "6a81e2d6b3e51ac2c2f8cdd17b90efbfbf9e40486e660a62b8e5214eceef2721"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "V3",
+      "file": "models\\20260605_3_V3.joblib",
+      "sha256": "5250f838d5c82b29ead32485d90fb6f40ef51cc7f5d9a432bf598df55328a062"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "V3.1",
+      "file": "models\\20260605_3_V3.1.joblib",
+      "sha256": "a717f4eb9e441838a51a381f4914ea27e5340835d72435e64e64183fcab91a02"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "A_V3.2",
+      "file": "models\\20260605_3_A_V3.2.joblib",
+      "sha256": "ee2c31967859e6e7d3de59444f918e067ad71a0904e021ffbdc2c75c2ba380bf"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.03,
+      "version": "J",
+      "file": "models\\20260605_3_J.joblib",
+      "sha256": "7514cebc19acac5fc809313026735f86696d99e9027465d1e605be704425f6d0"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "original",
+      "file": "models\\20260605_10_original.joblib",
+      "sha256": "78043bc3f5c44e9c69f6a9d2a3645d84c3b41d3b7ef3cb616c93a5b8a071396f"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "raw",
+      "file": "models\\20260605_10_raw.joblib",
+      "sha256": "119b137a019c952ebbabdbeec99c03dde309ac5f349ccb4385a7c94b3893880f"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "V2",
+      "file": "models\\20260605_10_V2.joblib",
+      "sha256": "a4fcca145c0e50fe742fcbe31f8101ef932fe610f7a7a0c9ef9b2f6fd2098ea7"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "V3",
+      "file": "models\\20260605_10_V3.joblib",
+      "sha256": "c90ab516dd0b5e0df5d860a7517a98c2f1ac562b8f186319fff699540a265d3c"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "V3.1",
+      "file": "models\\20260605_10_V3.1.joblib",
+      "sha256": "d3901945e7996c45e1c991cd046790a0c2802a7905246426ae3ac57c97b4a7af"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "A_V3.2",
+      "file": "models\\20260605_10_A_V3.2.joblib",
+      "sha256": "a677cbfeb01a43b3d98a77c9a90f5e4fa792b40a61107d7dea103c8414c10a09"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.1,
+      "version": "J",
+      "file": "models\\20260605_10_J.joblib",
+      "sha256": "2894649afa339e74ffd37becc668030ca24ff322eee793e7fa03a2f540863a4f"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "original",
+      "file": "models\\20260605_20_original.joblib",
+      "sha256": "78043bc3f5c44e9c69f6a9d2a3645d84c3b41d3b7ef3cb616c93a5b8a071396f"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "raw",
+      "file": "models\\20260605_20_raw.joblib",
+      "sha256": "b25d1746ce4fcd7a900b4b11e1e12f755544461b30c9cbbbc1ea3a7c13eed646"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "V2",
+      "file": "models\\20260605_20_V2.joblib",
+      "sha256": "a6aaa111f9311a8d1ff8cf93b2f55ae81c44c9f3184ffb9643792c6d0319b77d"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "V3",
+      "file": "models\\20260605_20_V3.joblib",
+      "sha256": "e8881740098b90a1c684d49a9bda11bf6fc490e344dd72dd2ae2653d0a3b174e"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "V3.1",
+      "file": "models\\20260605_20_V3.1.joblib",
+      "sha256": "e0dd847196240e2f3fb58c903d01b92960835077db812f882e82bcc5043e3b50"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "A_V3.2",
+      "file": "models\\20260605_20_A_V3.2.joblib",
+      "sha256": "e6f1c10bfa66199e17264887cf6cc150c100cc2426556c2aeff8b22db1de1e78"
+    },
+    {
+      "seed": 20260605,
+      "rate": 0.2,
+      "version": "J",
+      "file": "models\\20260605_20_J.joblib",
+      "sha256": "a836658fcc6db506865464fef2c8f78a87c57d585c2c8ca52fcc25ddc6f4c354"
+    }
+  ],
+  "banks": [
+    {
+      "seed": 20260601,
+      "file": "data\\fitted_bank_20260601.joblib",
+      "sha256": "22f3a20007e3208c0bb29b51f17b1aa5910df53b8e67e11fd5a2a0da89d85824",
+      "ref_rows": 3400,
+      "predictors_exclude_income": true
+    },
+    {
+      "seed": 20260602,
+      "file": "data\\fitted_bank_20260602.joblib",
+      "sha256": "6a5404a99222fc24c0fff7f25faecb6d79debeb214339e7000722c1699659dee",
+      "ref_rows": 3400,
+      "predictors_exclude_income": true
+    },
+    {
+      "seed": 20260603,
+      "file": "data\\fitted_bank_20260603.joblib",
+      "sha256": "36aeef2d1e25db48ba1082fe87c7478e83e616a70ebb9a81414ecee45d5e75d5",
+      "ref_rows": 3400,
+      "predictors_exclude_income": true
+    },
+    {
+      "seed": 20260604,
+      "file": "data\\fitted_bank_20260604.joblib",
+      "sha256": "27625f6fc5d735b7d8610bc7dc185b9988a9b3a91c1ce85480ebf00d9a5ff6f9",
+      "ref_rows": 3400,
+      "predictors_exclude_income": true
+    },
+    {
+      "seed": 20260605,
+      "file": "data\\fitted_bank_20260605.joblib",
+      "sha256": "ba04801454641e8ff0a4ac4b20d588f99fab486216a1567b4987037d21d83613",
+      "ref_rows": 3400,
+      "predictors_exclude_income": true
+    }
+  ],
+  "inner_fits": 1890,
+  "final_fits": 105,
+  "external_labels_used": false,
+  "candidate_freeze_sha256": "99328c777b056e59ed9f64fd1039c768c5cb7618eff56120aaf6be873fe4ce95",
+  "protocol_sha256": "995ff59f8900f077aec176a9e14d79c388a646f160a23f823b8fd461c7104a8e",
+  "training_code_sha256": "c13aaf333f7bbd37b447b94b3630f0d09dd2372ce65f8b027cc65f257fa24555"
+}

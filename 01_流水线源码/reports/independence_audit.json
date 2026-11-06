@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "time_utc": "2026-11-03T15:21:00.838960+00:00",
+  "train_feature_universe": 32561,
+  "prior_external_rows": 8000,
+  "official_external_rows": 16281,
+  "unused_unique_rows": 8249,
+  "selected_rows": 8000,
+  "reserve_rows": 249,
+  "groups": [
+    {
+      "seed": 20260601,
+      "n": 1600,
+      "with_native_missing": 233,
+      "features_sha256": "e472a90e08c4dfa70d9b06bfac380040d45d4beab40b000de66b980d79cec554"
+    },
+    {
+      "seed": 20260602,
+      "n": 1600,
+      "with_native_missing": 241,
+      "features_sha256": "6e2a902a07eaaf0ee0130a5a5b3dbafc45515cb43c4fc6cdadf5ba5359fe4dd9"
+    },
+    {
+      "seed": 20260603,
+      "n": 1600,
+      "with_native_missing": 239,
+      "features_sha256": "265233739fc6610c95723b06c83b6d50bc6962e32e4f984e696e97f897d1faf5"
+    },
+    {
+      "seed": 20260604,
+      "n": 1600,
+      "with_native_missing": 235,
+      "features_sha256": "c9ac3c524cfffb92f23ac5853b864547b775ec6171c80c94d6bc6be28d8801c0"
+    },
+    {
+      "seed": 20260605,
+      "n": 1600,
+      "with_native_missing": 238,
+      "features_sha256": "02b72bf991ea34d9ce077232cc41412846697a561dbf60d912991a7fa1e71c4c"
+    }
+  ],
+  "selected_native_missing_rows": 1186,
+  "historical_feature_overlap": 0,
+  "prior_test_id_overlap": 0,
+  "cross_group_overlap": 0,
+  "eligibility_counts": {
+    "train_identity_excluded": 26,
+    "old_test_excluded": 8003,
+    "duplicate_excluded": 3
+  },
+  "external_labels_opened": false,
+  "label_based_sampling": false,
+  "source_evidence": [
+    {
+      "file": "V3.3\\prepare_fresh_test.py",
+      "sha256": "bb7c15743c21ee9b9a01a81dcd05614a6a4f0d57195444cb5569fcf18eea57f0"
+    },
+    {
+      "file": "V3.3\\develop_v33.py",
+      "sha256": "fe159bb81c7427fb887c6714f020018c1898964eb9c6578a8addb5342bcba4e5"
+    },
+    {
+      "file": "V3.3\\stage2\\run_experiments.py",
+      "sha256": "526522f37e76472058295c99cf77ee446998dedbc4f55bc44fb3f23a25ecdffa"
+    },
+    {
+      "file": "V3.3\\stage3\\prepare.py",
+      "sha256": "7710d16f9de7261fc177b8b629cc7d42ba9cd45d5f6f296e952ab8b4df190735"
+    },
+    {
+      "file": "V3.3\\stage3\\run_cv.py",
+      "sha256": "676e7ee35b96e809b576b638e83deb6782ae0906cddd9bf56c870215017916f7"
+    },
+    {
+      "file": "V3.3\\stage3\\compat_tests.py",
+      "sha256": "20c7e89212b1ade716bfd6438a4bdc2630d0dfdad1457a151404d047421ff3f9"
+    },
+    {
+      "file": "V3.2\\train_frozen.py",
+      "sha256": "94258d36fa2670bc84c6722a116cd50643309bdec62418ec40acd938c5aec6aa"
+    },
+    {
+      "file": "V3.2\\predict_frozen.py",
+      "sha256": "17f76be060601f6503c5627ffaf27b4921bf9bfb648b4e5b19c907c8df1864bc"
+    }
+  ],
+  "prior_sealed_preparation_manifest_sha256": "b70b652ea888b13618252e0d768286f1bf503078ffbc879d9d0194b7f6d04c0a",
+  "qualification": "Features previously used only for duplicate/eligibility and missingness coverage scans; labels were opaquely sealed, never fitted, selected, tuned or scored in recorded V3.3 runs",
+  "acceptance_population": "user-approved complete and naturally incomplete fresh official test rows; not the old complete-case test population"
+}

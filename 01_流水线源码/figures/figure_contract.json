@@ -1,0 +1,25 @@
+{
+  "conclusion": "The frozen J candidate fails the 10% independent F1 target; quality and engineering success do not replace it.",
+  "backend": "Python matplotlib",
+  "archetype": "single-panel quantitative figures",
+  "evidence": [
+    "All 15 paired F1 gains, five fixed seeds per rate",
+    "Observed before/after rule counts in the prespecified middle-noise population",
+    "Strict restoration for all eight injection types and all noise levels"
+  ],
+  "n": "5 disjoint groups x1600; 8000 unique records reused across three noise conditions",
+  "uncertainty": "sample SD ddof=1 for F1; quality charts show exact pooled counts/proportions, no uncertainty inference",
+  "exclusions": "none in F1/type chart; before/after chart explicitly focuses on 10%, all rates tabulated",
+  "formats": [
+    "PDF",
+    "SVG",
+    "300dpi PNG",
+    "600dpi TIFF"
+  ],
+  "minimum_font_pt": 8,
+  "source_files": [
+    "reports/五次独立实验结果.csv",
+    "reports/修复前后质量统计.csv",
+    "reports/各错误类型修复统计.csv"
+  ]
+}
